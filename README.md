@@ -13,7 +13,7 @@
 
 1. 저장소를 클론합니다:
 bash
-git clone https://github.com/YOUR_USERNAME/YOUR_FORKED_REPOSITORY.git
+git clone https://github.com/SerenaVanessa/moviemark_practice.git
 cd moviemark
 
 2. 의존성 설치:
